@@ -2,6 +2,9 @@ use <base.scad>
 use <plate.scad>
 use <wheel.scad>
 
+use <common/arrangement.scad>
+use <common/slicing.scad>
+
 validate();
 
 //wheel();

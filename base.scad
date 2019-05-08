@@ -1,4 +1,5 @@
-include <common.scad>
+include <dimensions.scad>
+use <common/shapes.scad>
 
 module base() {
 	track_width=tyre_width * 1.5;

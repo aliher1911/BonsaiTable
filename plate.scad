@@ -1,4 +1,5 @@
-include <common.scad>
+include <dimensions.scad>
+use <common/shapes.scad>
 
 // produces picture of defined size
 // x, y - size
