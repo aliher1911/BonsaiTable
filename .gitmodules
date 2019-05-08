@@ -1,0 +1,5 @@
+[submodule "OpenSCADCommon"]
+	path = OpenSCADCommon
+	url = git@github.com:aliher1911/OpenSCADCommon.git
+[submodule "OpenSCANCommon"]
+	branch = master
